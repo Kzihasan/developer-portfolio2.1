@@ -169,15 +169,22 @@ li:hover {
     color: rgb(117, 117, 117);
 }
 
+#resume {
+    margin-bottom: 100px;
+}
+
 #resume h1 {
     text-align: center;
-    padding: 20px auto;
-    margin-bottom: 100px;
+    padding: 20px 0;
 }
 
 .qualifications {
     display: flex;
     gap: 20px;
+}
+
+..exprerience {
+    width: 50%;
 }
 
 .exprerience h2 {
@@ -199,9 +206,15 @@ li:hover {
     color: rgb(117, 117, 117);
 }
 
+.middle {
+    text-align: center;
+    margin: 0 45%;
+}
+
 #footer {
     background-color: #FFF8F3;
     padding-top: 50px;
+    padding-bottom: 80px;
 }
 
 .contact {
