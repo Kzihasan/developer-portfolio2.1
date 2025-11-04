@@ -172,6 +172,7 @@ li:hover {
 #resume h1 {
     text-align: center;
     padding: 20px auto;
+    margin-bottom: 100px;
 }
 
 .qualifications {
@@ -196,4 +197,25 @@ li:hover {
 
 .exprerience p {
     color: rgb(117, 117, 117);
+}
+
+#footer {
+    background-color: #FFF8F3;
+    padding-top: 50px;
+}
+
+.contact {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.let {
+    width: 50%;
+    padding: 20px;
+}
+
+input {
+    border: none;
+    padding: 30px;
 }
